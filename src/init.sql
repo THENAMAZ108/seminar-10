@@ -36,4 +36,4 @@ UPDATE t_books SET
     category = 'Databases',
     author = 'C.J. Date',
     is_active = true
-WHERE book_id = 190;
+WHERE book_id = 100;
